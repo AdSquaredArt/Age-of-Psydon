@@ -2531,7 +2531,11 @@
 /obj/structure/bed/rogue/inn/double,
 /obj/item/bedsheet/rogue/fabric_double,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /obj/machinery/light/rogue/wallfire/candle,
+=======
+/obj/machinery/light/roguestreet/orange/walllamp,
+>>>>>>> Stashed changes
 =======
 /obj/machinery/light/roguestreet/orange/walllamp,
 >>>>>>> Stashed changes
@@ -6429,7 +6433,11 @@
 	dir = 8
 	},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /obj/machinery/light/rogue/wallfire/candle,
+=======
+/obj/machinery/light/roguestreet/orange/walllamp,
+>>>>>>> Stashed changes
 =======
 /obj/machinery/light/roguestreet/orange/walllamp,
 >>>>>>> Stashed changes
@@ -11545,7 +11553,10 @@
 /area/rogue/under/town/basement)
 "mFe" = (
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /obj/machinery/light/rogue/wallfire/candle/l,
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 /obj/structure/fluff/wallclock/r,
@@ -21141,8 +21152,13 @@
 /obj/item/clothing/head/roguetown/headdress,
 /obj/item/clothing/suit/roguetown/shirt/dress/gen/purple,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /obj/structure/closet/crate/roguecloset/dark,
 /obj/machinery/light/rogue/wallfire/candle,
+=======
+/obj/machinery/light/roguestreet/orange/walllamp,
+/obj/structure/closet/crate/roguecloset/dark,
+>>>>>>> Stashed changes
 =======
 /obj/machinery/light/roguestreet/orange/walllamp,
 /obj/structure/closet/crate/roguecloset/dark,
@@ -293897,7 +293913,11 @@ hcW
 ltM
 jDm
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 oyi
+=======
+kuP
+>>>>>>> Stashed changes
 =======
 kuP
 >>>>>>> Stashed changes
@@ -391194,7 +391214,10 @@ wtF
 wtF
 wtF
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 cpf
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 cpf
@@ -398444,10 +398467,17 @@ wtF
 wtF
 wtF
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 eJs
 cAg
 wtF
 eJs
+=======
+nwI
+cAg
+wtF
+nwI
+>>>>>>> Stashed changes
 =======
 nwI
 cAg
@@ -399251,7 +399281,11 @@ xeu
 xeu
 wtF
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 aCH
+=======
+vKh
+>>>>>>> Stashed changes
 =======
 vKh
 >>>>>>> Stashed changes
@@ -401265,7 +401299,11 @@ xeu
 xeu
 wtF
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 aCH
+=======
+vKh
+>>>>>>> Stashed changes
 =======
 vKh
 >>>>>>> Stashed changes
@@ -402080,7 +402118,11 @@ gRb
 wtF
 wtF
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 eJs
+=======
+nwI
+>>>>>>> Stashed changes
 =======
 nwI
 >>>>>>> Stashed changes
